@@ -1,0 +1,13 @@
+body {
+    background-color:cyan;
+    background-image: url("https://imagine.gsfc.nasa.gov/hst_bday/images/february-26-2019-bubble-nebula.jpg");
+    color: white;
+    background-repeat: repeat-y;
+
+}
+
+
+a {
+    color: cyan;
+    padding: 1em;
+}
